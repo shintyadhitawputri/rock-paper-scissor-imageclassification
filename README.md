@@ -14,5 +14,5 @@ Applied various image augmentation techniques (such as rotation, zoom, and flipp
 ## Performance: 
 - **Training accuracy**: 96%
 - **Validation accuracy**: 98%
-# Model Application: 
+## Model Application: 
 This trained model can accurately predict newly uploaded images of rock, paper, or scissors.
